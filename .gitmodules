@@ -1,0 +1,3 @@
+[submodule "generated-model-sandbox"]
+	path = generated-model-sandbox
+	url = https://github.com/cx20/generated-model-sandbox.git
